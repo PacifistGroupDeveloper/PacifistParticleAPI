@@ -1,0 +1,17 @@
+package pacifist.particleapi;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class PacifistParticleAPI extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}
